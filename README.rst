@@ -1,1 +1,1 @@
-Documentation at: https://komanawa-solutions-ltd.github.io/komanawa-basgra-nz-py/
+Documentation at: https://komanawa.github.io/komanawa-basgra-nz-py/
